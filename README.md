@@ -1,4 +1,4 @@
-#  Tea Leaves Disease Detection
+
 
 # Tea Leaves Disease Prediction using CNN
 
